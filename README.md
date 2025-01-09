@@ -1,1 +1,1 @@
-A toy machine learning framefork for learning purposes. 
+A toy machine learning framework for learning purposes. 
